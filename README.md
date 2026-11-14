@@ -195,4 +195,4 @@ This repository serves as the official landing page for Helicon Focus. The softw
 **Get the most recent version of Helicon Focus today!**
 
 ---
-**Last updated:** 2026-11-14 08:24:50 UTC
+**Last updated:** 2026-11-14 15:26:39 UTC
